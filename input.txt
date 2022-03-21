@@ -1,0 +1,11 @@
+10
+name Geoffrey
+class Bard
+level -6
+level 5
+level 11
+name Ormon
+class Bard
+class Rogue
+level 41
+class Barbarian
