@@ -13,9 +13,9 @@ using namespace std;
 int main(){
     string inputFile;
     ifstream fin;
-    string finalName = "";
-    string finalClass = "";
-    int finalLevel;
+    string finalName = "Normo";
+    string finalClass = "accountant";
+    int finalLevel = 0;
     do{
         cout << "What is the name of the input file?" << endl;
         cin >> inputFile;
