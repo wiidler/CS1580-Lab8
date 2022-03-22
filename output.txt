@@ -1,0 +1,5 @@
+Ormon's final attributes:
+
+Name - Ormon
+Class - Barbarian
+Level - 41
