@@ -3,6 +3,8 @@
 #include <fstream>
 using namespace std;
 
+/***********************FUNCTION DEFINITIONS***********************/
+
 void readFile(ifstream & fin, string & finalName, string & finalClass, int & finalLevel){
     int numOfLines;
     fin >> numOfLines;
