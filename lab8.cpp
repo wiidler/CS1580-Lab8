@@ -3,7 +3,7 @@
 // Date: 3/22/22
 // File: lab8.cpp
 // Assignment: Lab 8
-// Purpose:
+// Purpose: This program takes in information from an input file and outputs the newest info to an output file
 
 #include "calculations.h"
 #include <iostream>
